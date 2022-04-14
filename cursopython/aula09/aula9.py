@@ -13,6 +13,6 @@ print()
 print(f'{nome} tem {idade} anos. '
     f'O {nome} nasceu em {ano_nasc}.')
 
-print ()
+print()
 print(f'A somatória entre os números que você informou é:')
 print(int(num1)+int(num2))
